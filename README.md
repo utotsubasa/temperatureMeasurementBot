@@ -1,1 +1,1 @@
-# IwasakiTemperaturemeasurement
+# 検温管理のためのLINE Bot
